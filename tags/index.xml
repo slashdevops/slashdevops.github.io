@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on SlashDevOps</title>
+    <link>https://slashdevops.com/tags/</link>
+    <description>Recent content in Tags on SlashDevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Mar 2024 09:07:51 +0100</lastBuildDate>
+    <atom:link href="https://slashdevops.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github-Pages</title>
+      <link>https://slashdevops.com/tags/github-pages/</link>
+      <pubDate>Sat, 30 Mar 2024 09:07:51 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/github-pages/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://slashdevops.com/tags/hugo/</link>
+      <pubDate>Sat, 30 Mar 2024 09:07:51 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Migration</title>
+      <link>https://slashdevops.com/tags/migration/</link>
+      <pubDate>Sat, 30 Mar 2024 09:07:51 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/migration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Update</title>
+      <link>https://slashdevops.com/tags/update/</link>
+      <pubDate>Sat, 30 Mar 2024 09:07:51 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/update/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wordpress</title>
+      <link>https://slashdevops.com/tags/wordpress/</link>
+      <pubDate>Sat, 30 Mar 2024 09:07:51 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assume-Role</title>
+      <link>https://slashdevops.com/tags/assume-role/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/assume-role/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Aws</title>
+      <link>https://slashdevops.com/tags/aws/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cross-Account</title>
+      <link>https://slashdevops.com/tags/cross-account/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/cross-account/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cross-Region</title>
+      <link>https://slashdevops.com/tags/cross-region/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/cross-region/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Groovy</title>
+      <link>https://slashdevops.com/tags/groovy/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/groovy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Jenkins</title>
+      <link>https://slashdevops.com/tags/jenkins/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/jenkins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mask-Passwords</title>
+      <link>https://slashdevops.com/tags/mask-passwords/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/mask-passwords/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pipeline</title>
+      <link>https://slashdevops.com/tags/pipeline/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/pipeline/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://slashdevops.com/tags/security/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shared-Library</title>
+      <link>https://slashdevops.com/tags/shared-library/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/shared-library/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Homebrew</title>
+      <link>https://slashdevops.com/tags/homebrew/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/homebrew/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Iterm2</title>
+      <link>https://slashdevops.com/tags/iterm2/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/iterm2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>M1</title>
+      <link>https://slashdevops.com/tags/m1/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/m1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>M2</title>
+      <link>https://slashdevops.com/tags/m2/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/m2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Macos</title>
+      <link>https://slashdevops.com/tags/macos/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Modding</title>
+      <link>https://slashdevops.com/tags/modding/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/modding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oh-My-Zsh</title>
+      <link>https://slashdevops.com/tags/oh-my-zsh/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/oh-my-zsh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Podman</title>
+      <link>https://slashdevops.com/tags/podman/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/podman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Powerlevel10k</title>
+      <link>https://slashdevops.com/tags/powerlevel10k/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/powerlevel10k/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Provisioning</title>
+      <link>https://slashdevops.com/tags/provisioning/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/provisioning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vscode</title>
+      <link>https://slashdevops.com/tags/vscode/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/vscode/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elasticsearch</title>
+      <link>https://slashdevops.com/tags/elasticsearch/</link>
+      <pubDate>Wed, 13 May 2020 17:59:22 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ilm</title>
+      <link>https://slashdevops.com/tags/ilm/</link>
+      <pubDate>Wed, 13 May 2020 17:59:22 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/ilm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>https://slashdevops.com/tags/index/</link>
+      <pubDate>Wed, 13 May 2020 17:59:22 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/index/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ism</title>
+      <link>https://slashdevops.com/tags/ism/</link>
+      <pubDate>Wed, 13 May 2020 17:59:22 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/ism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifecycle</title>
+      <link>https://slashdevops.com/tags/lifecycle/</link>
+      <pubDate>Wed, 13 May 2020 17:59:22 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/lifecycle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Logs</title>
+      <link>https://slashdevops.com/tags/logs/</link>
+      <pubDate>Wed, 13 May 2020 17:59:22 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/logs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open-Distro</title>
+      <link>https://slashdevops.com/tags/open-distro/</link>
+      <pubDate>Wed, 13 May 2020 17:59:22 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/open-distro/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

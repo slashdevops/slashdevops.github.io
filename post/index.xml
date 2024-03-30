@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on SlashDevOps</title>
+    <link>https://slashdevops.com/post/</link>
+    <description>Recent content in Posts on SlashDevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Mar 2024 09:07:51 +0100</lastBuildDate>
+    <atom:link href="https://slashdevops.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrated from WordPress to Hugo and GitHub Pages</title>
+      <link>https://slashdevops.com/post/2024/03/30/1/migrated-from-wordpress-to-hugo-and-github-pages/</link>
+      <pubDate>Sat, 30 Mar 2024 09:07:51 +0100</pubDate>
+      <guid>https://slashdevops.com/post/2024/03/30/1/migrated-from-wordpress-to-hugo-and-github-pages/</guid>
+      <description>Introduction I have been using WordPress for a long time to host slashdevops.com blog site. I had been looking for a way to migrate this blog from WordPress to a static site generator and during the research I found Hugo and I can say I am very happy with it. Hugo allows me to write this blog posts in Markdown and it is very fast and easy to use.
+I have also been using GitHub Pages for other of my personal jobs and I decided to migrate this blog GitHub Pages as well.</description>
+    </item>
+    <item>
+      <title>Secure and Easy AWS Connection Assuming a Role With Jenkins Shared Library</title>
+      <link>https://slashdevops.com/post/2022/12/03/1/secure-and-easy-aws-connection-assuming-a-role-with-jenkins-shared-library/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/post/2022/12/03/1/secure-and-easy-aws-connection-assuming-a-role-with-jenkins-shared-library/</guid>
+      <description>How to connect to AWS Account assuming a role with Jenkins shared library</description>
+    </item>
+    <item>
+      <title>My custom MacBook Pro [m1|m2] Provisioning</title>
+      <link>https://slashdevops.com/post/2022/09/17/1/my-custom-macbook-ro-m1-m2-provisioning/</link>
+      <pubDate>Sat, 17 Sep 2022 21:12:43 +0100</pubDate>
+      <guid>https://slashdevops.com/post/2022/09/17/1/my-custom-macbook-ro-m1-m2-provisioning/</guid>
+      <description>How I provision my MacBook Pro [m1|m2] with my custom scripts</description>
+    </item>
+    <item>
+      <title>Managing the Lifecycle of your Elasticsearch Indices</title>
+      <link>https://slashdevops.com/post/2020/05/13/1/managing-the-lifecycle-of-your-elasticsearch-indices/</link>
+      <pubDate>Wed, 13 May 2020 17:59:22 +0100</pubDate>
+      <guid>https://slashdevops.com/post/2020/05/13/1/managing-the-lifecycle-of-your-elasticsearch-indices/</guid>
+      <description>How to efficiently manage index lifecycles in an automated and clean manner</description>
+    </item>
+  </channel>
+</rss>

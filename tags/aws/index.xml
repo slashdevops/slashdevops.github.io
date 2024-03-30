@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aws on SlashDevOps</title>
+    <link>https://slashdevops.com/tags/aws/</link>
+    <description>Recent content in Aws on SlashDevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Dec 2022 20:39:29 +0100</lastBuildDate>
+    <atom:link href="https://slashdevops.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secure and Easy AWS Connection Assuming a Role With Jenkins Shared Library</title>
+      <link>https://slashdevops.com/post/2022/12/03/1/secure-and-easy-aws-connection-assuming-a-role-with-jenkins-shared-library/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/post/2022/12/03/1/secure-and-easy-aws-connection-assuming-a-role-with-jenkins-shared-library/</guid>
+      <description>How to connect to AWS Account assuming a role with Jenkins shared library</description>
+    </item>
+    <item>
+      <title>Managing the Lifecycle of your Elasticsearch Indices</title>
+      <link>https://slashdevops.com/post/2020/05/13/1/managing-the-lifecycle-of-your-elasticsearch-indices/</link>
+      <pubDate>Wed, 13 May 2020 17:59:22 +0100</pubDate>
+      <guid>https://slashdevops.com/post/2020/05/13/1/managing-the-lifecycle-of-your-elasticsearch-indices/</guid>
+      <description>How to efficiently manage index lifecycles in an automated and clean manner</description>
+    </item>
+  </channel>
+</rss>

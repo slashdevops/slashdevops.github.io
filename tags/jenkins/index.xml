@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jenkins on SlashDevOps</title>
+    <link>https://slashdevops.com/tags/jenkins/</link>
+    <description>Recent content in Jenkins on SlashDevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Dec 2022 20:39:29 +0100</lastBuildDate>
+    <atom:link href="https://slashdevops.com/tags/jenkins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secure and Easy AWS Connection Assuming a Role With Jenkins Shared Library</title>
+      <link>https://slashdevops.com/post/2022/12/03/1/secure-and-easy-aws-connection-assuming-a-role-with-jenkins-shared-library/</link>
+      <pubDate>Sat, 03 Dec 2022 20:39:29 +0100</pubDate>
+      <guid>https://slashdevops.com/post/2022/12/03/1/secure-and-easy-aws-connection-assuming-a-role-with-jenkins-shared-library/</guid>
+      <description>How to connect to AWS Account assuming a role with Jenkins shared library</description>
+    </item>
+  </channel>
+</rss>

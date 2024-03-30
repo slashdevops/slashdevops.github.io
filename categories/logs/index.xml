@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Logs on SlashDevOps</title>
+    <link>https://slashdevops.com/categories/logs/</link>
+    <description>Recent content in Logs on SlashDevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2020 17:59:22 +0100</lastBuildDate>
+    <atom:link href="https://slashdevops.com/categories/logs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Managing the Lifecycle of your Elasticsearch Indices</title>
+      <link>https://slashdevops.com/post/2020/05/13/1/managing-the-lifecycle-of-your-elasticsearch-indices/</link>
+      <pubDate>Wed, 13 May 2020 17:59:22 +0100</pubDate>
+      <guid>https://slashdevops.com/post/2020/05/13/1/managing-the-lifecycle-of-your-elasticsearch-indices/</guid>
+      <description>How to efficiently manage index lifecycles in an automated and clean manner</description>
+    </item>
+  </channel>
+</rss>
