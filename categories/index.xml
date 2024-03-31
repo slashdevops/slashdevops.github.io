@@ -6,8 +6,36 @@
     <description>Recent content in Categories on SlashDevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2024 13:25:51 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 20:02:45 +0100</lastBuildDate>
     <atom:link href="https://slashdevops.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C-Language</title>
+      <link>https://slashdevops.com/categories/c-language/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/categories/c-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Make</title>
+      <link>https://slashdevops.com/categories/make/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/categories/make/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://slashdevops.com/categories/programming/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/categories/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual-Studio-Code</title>
+      <link>https://slashdevops.com/categories/visual-studio-code/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/categories/visual-studio-code/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blog</title>
       <link>https://slashdevops.com/categories/blog/</link>

@@ -6,8 +6,57 @@
     <description>Recent content in Tags on SlashDevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2024 13:25:51 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 20:02:45 +0100</lastBuildDate>
     <atom:link href="https://slashdevops.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build</title>
+      <link>https://slashdevops.com/tags/build/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/build/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>C-Language</title>
+      <link>https://slashdevops.com/tags/c-language/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/c-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Debug</title>
+      <link>https://slashdevops.com/tags/debug/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/debug/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linked-List</title>
+      <link>https://slashdevops.com/tags/linked-list/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/linked-list/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Makefile</title>
+      <link>https://slashdevops.com/tags/makefile/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/makefile/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project-Structure</title>
+      <link>https://slashdevops.com/tags/project-structure/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/project-structure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visual-Studio-Code</title>
+      <link>https://slashdevops.com/tags/visual-studio-code/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/tags/visual-studio-code/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Github-Pages</title>
       <link>https://slashdevops.com/tags/github-pages/</link>

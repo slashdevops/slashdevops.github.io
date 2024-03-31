@@ -2,16 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://slashdevops.com/tags/build/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/post/2024/03/31/2/building-and-debugging-a-c-project-in-visual-studio-code-with-a-makefile/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/c-language/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/c-language/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/debug/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/linked-list/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/make/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/makefile/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
     <loc>https://slashdevops.com/post/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/programming/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/project-structure/</loc>
     <lastmod>2024-03-31T20:02:45+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/</loc>
     <lastmod>2024-03-31T20:02:45+01:00</lastmod>
   </url><url>
-    <loc>https://slashdevops.com/categories/blog/</loc>
-    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+    <loc>https://slashdevops.com/tags/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
   </url><url>
-    <loc>https://slashdevops.com/categories/</loc>
+    <loc>https://slashdevops.com/tags/visual-studio-code/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/visual-studio-code/</loc>
+    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/blog/</loc>
     <lastmod>2024-03-31T13:25:51+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/tags/github-pages/</loc>
@@ -36,9 +75,6 @@
     <lastmod>2024-03-31T13:25:51+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/categories/news/</loc>
-    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
-  </url><url>
-    <loc>https://slashdevops.com/tags/</loc>
     <lastmod>2024-03-31T13:25:51+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/tags/update/</loc>

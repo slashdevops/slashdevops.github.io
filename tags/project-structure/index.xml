@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Project-Structure on SlashDevOps</title>
+    <link>https://slashdevops.com/tags/project-structure/</link>
+    <description>Recent content in Project-Structure on SlashDevOps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Mar 2024 20:02:45 +0100</lastBuildDate>
+    <atom:link href="https://slashdevops.com/tags/project-structure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building and Debugging a C Project in Visual Studio Code with a Makefile</title>
+      <link>https://slashdevops.com/post/2024/03/31/2/building-and-debugging-a-c-project-in-visual-studio-code-with-a-makefile/</link>
+      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
+      <guid>https://slashdevops.com/post/2024/03/31/2/building-and-debugging-a-c-project-in-visual-studio-code-with-a-makefile/</guid>
+      <description>Introduction I have been using Visual Studio Code (vscode) for my C language projects until I&amp;rsquo;m re-learning this powerful programming language. One of the features that I like about vscode is the ability to build and debug C language projects using a Makefile. In this post, I will show you how to build and debug a C project in vscode using a Makefile.
+also, I built a GitHub repository template for this project called c-library-template, where you can use it to create a new C project with the following features:</description>
+    </item>
+  </channel>
+</rss>
