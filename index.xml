@@ -6,8 +6,16 @@
     <description>Recent content on SlashDevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Dec 2022 20:39:29 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 13:25:51 +0100</lastBuildDate>
     <atom:link href="https://slashdevops.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Migrated from WordPress to Hugo and GitHub Pages</title>
+      <link>https://slashdevops.com/post/2024/03/31/1/migrated-from-wordpress-to-hugo-and-github-pages/</link>
+      <pubDate>Sun, 31 Mar 2024 13:25:51 +0100</pubDate>
+      <guid>https://slashdevops.com/post/2024/03/31/1/migrated-from-wordpress-to-hugo-and-github-pages/</guid>
+      <description>Introduction I have been using WordPress for a long time to host slashdevops.com blog site. I had been looking for a way to migrate this blog from WordPress to a static site generator and during the research I found Hugo and I can say I am very happy with it. Hugo allows me to write this blog posts in Markdown and it is very fast and easy to use.
+I have also been using GitHub Pages for other of my personal jobs and I decided to migrate this blog GitHub Pages as well.</description>
+    </item>
     <item>
       <title>Secure and Easy AWS Connection Assuming a Role With Jenkins Shared Library</title>
       <link>https://slashdevops.com/post/2022/12/03/1/secure-and-easy-aws-connection-assuming-a-role-with-jenkins-shared-library/</link>

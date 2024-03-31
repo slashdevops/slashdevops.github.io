@@ -2,10 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://slashdevops.com/categories/blog/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/github-pages/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/github-pages/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/hugo/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/hugo/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/post/2024/03/31/1/migrated-from-wordpress-to-hugo-and-github-pages/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/migration/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/migration/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/news/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
     <loc>https://slashdevops.com/post/</loc>
     <lastmod>2024-03-31T13:25:51+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/update/</loc>
+    <lastmod>2024-03-31T13:25:51+01:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/wordpress/</loc>
     <lastmod>2024-03-31T13:25:51+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/tags/assume-role/</loc>
@@ -15,9 +54,6 @@
     <lastmod>2022-12-03T20:39:29+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/tags/aws/</loc>
-    <lastmod>2022-12-03T20:39:29+01:00</lastmod>
-  </url><url>
-    <loc>https://slashdevops.com/categories/</loc>
     <lastmod>2022-12-03T20:39:29+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/tags/cross-account/</loc>
@@ -51,9 +87,6 @@
     <lastmod>2022-12-03T20:39:29+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/tags/shared-library/</loc>
-    <lastmod>2022-12-03T20:39:29+01:00</lastmod>
-  </url><url>
-    <loc>https://slashdevops.com/tags/</loc>
     <lastmod>2022-12-03T20:39:29+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/tags/homebrew/</loc>
