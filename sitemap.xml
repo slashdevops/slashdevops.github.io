@@ -2,6 +2,60 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://slashdevops.com/categories/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/cli/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/cli/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/customization/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/development/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/file/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/flag/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/go/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/go/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/go-language/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/golang/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/golang/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/post/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/programming/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/categories/standard-library/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/tags/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
+    <loc>https://slashdevops.com/post/2024/04/07/1/using-files-as-a-flag-in-the-golang-command-line-interface-cli/</loc>
+    <lastmod>2024-04-07T10:17:23+02:00</lastmod>
+  </url><url>
     <loc>https://slashdevops.com/tags/build/</loc>
     <lastmod>2024-03-31T20:02:45+01:00</lastmod>
   </url><url>
@@ -12,9 +66,6 @@
     <lastmod>2024-03-31T20:02:45+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/categories/c-language/</loc>
-    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
-  </url><url>
-    <loc>https://slashdevops.com/categories/</loc>
     <lastmod>2024-03-31T20:02:45+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/tags/debug/</loc>
@@ -29,19 +80,7 @@
     <loc>https://slashdevops.com/tags/makefile/</loc>
     <lastmod>2024-03-31T20:02:45+01:00</lastmod>
   </url><url>
-    <loc>https://slashdevops.com/post/</loc>
-    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
-  </url><url>
-    <loc>https://slashdevops.com/categories/programming/</loc>
-    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
-  </url><url>
     <loc>https://slashdevops.com/tags/project-structure/</loc>
-    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
-  </url><url>
-    <loc>https://slashdevops.com/</loc>
-    <lastmod>2024-03-31T20:02:45+01:00</lastmod>
-  </url><url>
-    <loc>https://slashdevops.com/tags/</loc>
     <lastmod>2024-03-31T20:02:45+01:00</lastmod>
   </url><url>
     <loc>https://slashdevops.com/tags/visual-studio-code/</loc>

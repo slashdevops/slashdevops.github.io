@@ -6,8 +6,43 @@
     <description>Recent content in Tags on SlashDevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2024 20:02:45 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 10:17:23 +0200</lastBuildDate>
     <atom:link href="https://slashdevops.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cli</title>
+      <link>https://slashdevops.com/tags/cli/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/tags/cli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>File</title>
+      <link>https://slashdevops.com/tags/file/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/tags/file/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flag</title>
+      <link>https://slashdevops.com/tags/flag/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/tags/flag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://slashdevops.com/tags/go/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>https://slashdevops.com/tags/golang/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/tags/golang/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Build</title>
       <link>https://slashdevops.com/tags/build/</link>

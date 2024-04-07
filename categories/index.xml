@@ -6,8 +6,64 @@
     <description>Recent content in Categories on SlashDevOps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2024 20:02:45 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 10:17:23 +0200</lastBuildDate>
     <atom:link href="https://slashdevops.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cli</title>
+      <link>https://slashdevops.com/categories/cli/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/categories/cli/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Customization</title>
+      <link>https://slashdevops.com/categories/customization/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/categories/customization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>https://slashdevops.com/categories/development/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/categories/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>https://slashdevops.com/categories/go/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/categories/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go-Language</title>
+      <link>https://slashdevops.com/categories/go-language/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/categories/go-language/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>https://slashdevops.com/categories/golang/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/categories/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://slashdevops.com/categories/programming/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/categories/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Standard-Library</title>
+      <link>https://slashdevops.com/categories/standard-library/</link>
+      <pubDate>Sun, 07 Apr 2024 10:17:23 +0200</pubDate>
+      <guid>https://slashdevops.com/categories/standard-library/</guid>
+      <description></description>
+    </item>
     <item>
       <title>C-Language</title>
       <link>https://slashdevops.com/categories/c-language/</link>
@@ -20,13 +76,6 @@
       <link>https://slashdevops.com/categories/make/</link>
       <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
       <guid>https://slashdevops.com/categories/make/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://slashdevops.com/categories/programming/</link>
-      <pubDate>Sun, 31 Mar 2024 20:02:45 +0100</pubDate>
-      <guid>https://slashdevops.com/categories/programming/</guid>
       <description></description>
     </item>
     <item>
